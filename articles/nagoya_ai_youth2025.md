@@ -4,7 +4,7 @@ emoji: ":european_castle:"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [AI, HTML, CSS, JavaScript, 初心者]
 published: false
-published_at: 2023-07-11 0:00
+published_at: 2023-07-11 00:00
 ---
 
 # 環境構築
