@@ -4,7 +4,7 @@ emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [AI, HTML, CSS, JavaScript, 初心者]
 published: false
-published_at: 2023-07-11 00:00
+published_at: 2023-07-12 00:00
 ---
 
 # 環境構築
@@ -15,14 +15,14 @@ published_at: 2023-07-11 00:00
 
 ### Windows
 
-1. VSCodeのダウンロードページにアクセス
+1. [VSCodeのダウンロードページ](https://code.visualstudio.com/)にアクセス
 2. `Downroad for Windows` をクリック
 3. ダウンロード完了後、インストーラーを実行
 4. インストーラーの指示に従い、インストールを完了させる
 
 ### Mac
 
-1. VSCodeのダウンロードページにアクセス
+1. [VSCodeのダウンロードページ](https://code.visualstudio.com/)にアクセス
 2. `Downroad for MacOS` をクリック
 3. ダウンロード完了後、ダウンロードしたファイルをダブルクリックで展開
 4. 展開された `Visual Studio Code.app` をアプリケーションフォルダにドラッグして移動
@@ -47,6 +47,8 @@ published_at: 2023-07-11 00:00
 
 ### Japanese Language Pack for Visual Studio Code
 
+https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja
+
 Japanese Language Pack~とは、言語設定が英語であるVSCodeを日本語化してくれる拡張機能です。
 
 1. 画面左側の拡張機能アイコンをクリック
@@ -56,6 +58,8 @@ Japanese Language Pack~とは、言語設定が英語であるVSCodeを日本語
 5. 表示されている言語が日本語になっていればOK！
 
 ### Live Server
+
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 Live Serverとは、作成しているWebサイトをリアルタイムでプレビューできるようにしてくれる拡張機能です。
 
@@ -74,17 +78,19 @@ ChatGPTは教育、エンターテインメント、ビジネスなど、幅広�
 
 ## アカウントの作成
 
-1. OpenAIの公式サイトにアクセスします
-2. 右上の `Sign Up` ボタンをクリックします
-3. 必要な情報（メールアドレス、パスワード）を入力し、アカウントを作成します
-4. 登録したメールアドレスに送られてくる確認メールを開き、リンクをクリックしてアカウントを確認します
+1. [ChatGPTのページ](https://openai.com/ja-JP/chatgpt/overview/)にアクセス
+2. 右上の `ログイン` ボタンにカーソルを合わせると表示されるメニューから `ChatGPT` をクリック
+3. 画面右側に表示される `無料でサインアップ` をクリック
+4. 必要な情報（メールアドレス、パスワード）を入力し、アカウントを作成
+5. 登録したメールアドレスに送られてくる確認メールを開き、リンクをクリックしてアカウントを確認
 
 ## ChatGPTの使い方と活用例
 
 ### 使い方
 
-1. アカウント作成後、ChatGPTのページにアクセスし、ログインします
+1. [ChatGPTのページ](https://openai.com/ja-JP/chatgpt/overview/)にアクセスし、ログインします
 2. ログインすると、ChatGPTとの対話ができる画面が表示されます
+   （ChatGPTのアカウント作成した直後はこの画面に移動します）
 3. 画面下部の入力欄に質問やメッセージを入力し、「送信」ボタンをクリックすると、ChatGPTが応答します
 
 ### 活用例
