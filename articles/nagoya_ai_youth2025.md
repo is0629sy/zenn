@@ -1,3 +1,12 @@
+---
+title: "【NAGOYA AI YOUTH CAMP 2025】AIでプログラミングを体験してみよう！"
+emoji: ":european_castle:"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: [AI, HTML, CSS, JavaScript, 初心者]
+published: false
+published_at: 2023-07-11 0:00
+---
+
 # 環境構築
 
 ## 1. VSCode
