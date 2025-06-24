@@ -3,7 +3,7 @@ title: "【NAGOYA AI YOUTH CAMP 2025】AIでプログラミングを体験して
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [AI, HTML, CSS, JavaScript, 初心者]
-published: true
+published: false
 published_at: 2025-07-12 00:00
 ---
 
