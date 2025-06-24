@@ -4,7 +4,7 @@ emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [AI, HTML, CSS, JavaScript, 初心者]
 published: false
-published_at: 2025-07-12 00:00
+published_at: 2024-07-12 00:00
 ---
 
 # 環境構築
