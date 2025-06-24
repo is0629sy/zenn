@@ -218,7 +218,7 @@ Windowsでは `Ctrl+V` 、Macでは `⌘+V` で貼り付けることができま
 
 >style.cssを出力してください。
 
-![](/images/nagoya2025/chatgpt-css.png)
+![](/images/nagoya2025/chatgpt-css-sanmoku.png)
 
 送信すると、再びコードの出力が始まります。
 
@@ -226,18 +226,18 @@ Windowsでは `Ctrl+V` 、Macでは `⌘+V` で貼り付けることができま
 
 VSCodeに移り、今度は `style.css` に貼り付けます。
 
-![](/images/nagoya2025/vscode-css-1.png)
+![](/images/nagoya2025/vscode-css-sanmoku-1.png)
 
 コードが貼り付けられていることを確認したら、**保存**しましょう。
 
 先ほど「Go Live」で開いたWebページに戻ると、デザインが変わっていることが確認できると思います。 
 
-![](/images/nagoya2025/vscode-golive-test-2.png)
+![](/images/nagoya2025/vscode-golive-test-sanmoku-2.png)
 
 AIで出力したコードは人によって変わることがあるので、周りと見比べてみると面白いかもしれません。
 
-これで見た目は整えられましたが、まだ時計は動いていません。  
-いよいよ、JavaScriptを使って時計を動かしていきましょう！
+これで三目並べっぽいマス目はできましたが、まだマス目を押しても何も表示されません。  
+いよいよ、JavaScriptを使って三目並べができるようにしていきましょう！
 
 ## ChatGPTにデジタル時計を作ってもらおう！ -JavaScript-
 
@@ -245,7 +245,7 @@ AIで出力したコードは人によって変わることがあるので、周
 
 >script.jsを出力してください。
 
-![](/images/nagoya2025/chatgpt-js.png)
+![](/images/nagoya2025/chatgpt-js-sanmoku.png)
 
 送信すると、またまたコードの出力が始まります。
 
@@ -253,13 +253,19 @@ AIで出力したコードは人によって変わることがあるので、周
 
 VSCodeに移り、最後は `script.js` に貼り付けます。
 
-![](/images/nagoya2025/vscode-js-1.png)
+![](/images/nagoya2025/vscode-js-sanmoku-1.png)
 
 コードが貼り付けられていることを確認したら、**保存**しましょう。
 
-「Go Live」で開いたWebページ再び戻ってみると、今度は時計がしっかりと動いていることが確認できると思います。
+「Go Live」で開いたWebページ再び戻ってみます。
 
-たったこれだけの入力でデジタル時計のWebアプリができてしまいました！
+![](/images/nagoya2025/vscode-golive-test-sanmoku-3.png)
+
+マス目をクリックすると⚪︎と×が交互に入力されることが確認できると思います。
+
+最終的には勝敗や引き分けも判定してくれるはずです。
+
+たったこれだけの入力で三目並べが完成しました！
 
 # AIでWebアプリを作ってみよう 【応用編】
 
