@@ -1,5 +1,5 @@
 ---
-title: "【共有】【NAGOYA AI YOUTH CAMP 2025】AIでプログラミングを体験してみよう！"
+title: "【三目並べ】【NAGOYA AI YOUTH CAMP 2025】AIでプログラミングを体験してみよう！"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [AI, HTML, CSS, JavaScript, 初心者]
