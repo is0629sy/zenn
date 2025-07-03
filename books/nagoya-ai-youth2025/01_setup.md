@@ -2,7 +2,7 @@
 title: "環境構築"
 ---
 
-## 1. Visual Studio Code
+# 1. Visual Studio Code
 
 ## インストール
 
@@ -63,7 +63,7 @@ Live Serverとは、作成しているWebサイトをリアルタイムでプレ
 3. 下に出てくるRitwick Deyの `Live Server` をインストール
 4. 画面右下に小さく `Go Live` のボタンが表示されていればOK！
 
-## 2. ChatGPT
+# 2. ChatGPT
 
 ## ChatGPTとは？
 
