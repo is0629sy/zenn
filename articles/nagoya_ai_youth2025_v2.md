@@ -9,7 +9,7 @@ published_at: 2025-06-25 00:00
 
 # 環境構築
 
-## 1. VSCode
+## 1. Visual Studio Code
 
 ## インストール
 
