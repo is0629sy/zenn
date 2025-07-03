@@ -1,3 +1,3 @@
 ---
-title: ""
+title: "ChatGPTに三目並べを作ってもらおう！ -CSS-"
 ---
