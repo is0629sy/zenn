@@ -3,7 +3,7 @@ title: "【デジタル時計】【NAGOYA AI YOUTH CAMP 2025】AIでプログラ
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [AI, HTML, CSS, JavaScript, 初心者]
-published: true
+published: false
 published_at: 2024-06-25 00:00
 ---
 

@@ -3,7 +3,7 @@ title: "【三目並べ】【NAGOYA AI YOUTH CAMP 2025】AIでプログラミン
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [AI, HTML, CSS, JavaScript, 初心者]
-published: true
+published: false
 published_at: 2025-06-25 00:00
 ---
 
