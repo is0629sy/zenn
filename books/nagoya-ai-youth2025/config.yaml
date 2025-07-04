@@ -7,11 +7,12 @@ price: 0
 chapters:
   - 00_introduction
   - 01_setup
-  - 02_web-introduction
-  - 03_web-app-introduction
-  - 04_web-app-setup
-  - 05_web-app-dev-html
-  - 06_web-app-dev-css
-  - 07_web-app-dev-js
-  - 08_web-app-dev-custom
-  - 09_tips
+  - 02_what-is-chatgpt
+  - 03_web-introduction
+  - 04_web-app-introduction
+  - 05_web-app-setup
+  - 06_web-app-dev-html
+  - 07_web-app-dev-css
+  - 08_web-app-dev-js
+  - 09_web-app-dev-custom
+  - 10_tips
