@@ -69,7 +69,9 @@ Live Serverとは、作成しているWebサイトをリアルタイムでプレ
 
 1. [ChatGPTのページ](https://openai.com/ja-JP/chatgpt/overview/)にアクセス
 2. 右上の `ログイン` ボタンにカーソルを合わせると表示されるメニューから `ChatGPT` をクリック
+![](/images/nagoya2025/chatgpt-setup-1.png)
 3. 画面右側に表示される `無料でサインアップ` をクリック
+![](/images/nagoya2025/chatgpt-setup-2.png)
 4. 必要な情報（メールアドレス、パスワード）を入力し、アカウントを作成
 5. 登録したメールアドレスに送られてくる確認メールを開き、リンクをクリックしてアカウントを確認
 
