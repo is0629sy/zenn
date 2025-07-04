@@ -46,10 +46,26 @@ https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pa
 
 Japanese Language Pack~とは、言語設定が英語であるVSCodeを日本語化してくれる拡張機能です。
 
+#### 導入方法
+
 1. 画面左側の拡張機能アイコンをクリック
 2. 検索バーで「Japanese Language Pack」と入力
 3. 下に出てくる `Japanese Language Pack for Visual Studio Code` をインストール
+![](/images/nagoya2025/extension-ja.png)
 4. インストールが完了したら、画面右下に表示される `Change Language and Restart` をクリックし、表示言語の変更と再起動をする
+![](/images/nagoya2025/extension-ja-2.png)
+5. 表示されている言語が日本語になっていればOK！
+
+<br />
+もしくは…
+
+1. 以下のURLをクリック
+> https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-ja/1.101.2025061109/vspackage
+1. ファイルがダウンロードされるので、ダウンロードフォルダに `MS-CEINTL~` というファイルがダウンロードされていることを確認する
+2. VSCode画面左側の拡張機能アイコンをクリックしておく
+3. 画面左側に向けてダウンロードされたファイルをドラッグ&ドロップする
+![](/images/nagoya2025/extensions-2.png)
+4. 画面右下に表示される `Change Language and Restart` をクリックし、表示言語の変更と再起動をする
 5. 表示されている言語が日本語になっていればOK！
 
 ### Live Server
@@ -58,10 +74,24 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 Live Serverとは、作成しているWebサイトをリアルタイムでプレビューできるようにしてくれる拡張機能です。
 
+#### 導入方法
+
 1. 画面左側の拡張機能アイコンをクリック
 2. 検索バーで「Live Server」と入力
 3. 下に出てくるRitwick Deyの `Live Server` をインストール
+![](/images/nagoya2025/extension-liveserver.png)
 4. 画面右下に小さく `Go Live` のボタンが表示されていればOK！
+![](/images/nagoya2025/extension-liveserver-2.png)
+
+<br />
+もしくは…
+
+1. 以下のURLをクリック
+> https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ritwickdey/vsextensions/LiveServer/5.7.9/vspackage
+2. ファイルがダウンロードされるので、ダウンロードフォルダに `ritwickdey~` というファイルがダウンロードされていることを確認する
+3. VSCode画面左側の拡張機能アイコンをクリックしておく
+4. 画面左側に向けてダウンロードされたファイルをドラッグ&ドロップする
+5. 画面右下に小さく `Go Live` のボタンが表示されていればOK！
 
 # 2. ChatGPT
 
