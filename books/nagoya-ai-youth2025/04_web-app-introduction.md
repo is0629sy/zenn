@@ -11,9 +11,11 @@ Webアプリの例には
 - オンラインショップ
   - 例：Amazon
 ![](/images/nagoya2025/web-app-ex-1.png)
+
 - 文書作成
   - 例：Googleドキュメント
 ![](/images/nagoya2025/web-app-ex-2.png)
+
 - スケジュール管理
   - 例：Googleカレンダー
 ![](/images/nagoya2025/web-app-ex-3.png)
