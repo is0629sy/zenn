@@ -1,5 +1,5 @@
 ---
-title: "ChatGPTに三目並べを作ってもらおう！ -CSS-"
+title: "CSS"
 ---
 
 以下のプロンプトをChatGPTに入力し、CSSのコードを出力してもらいましょう。

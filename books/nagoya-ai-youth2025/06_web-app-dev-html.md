@@ -1,5 +1,5 @@
 ---
-title: "ChatGPTに三目並べを作ってもらおう！ -HTML-"
+title: "HTML"
 ---
 
 以下のプロンプトをChatGPTに入力し、HTMLのコードを出力してもらいましょう。

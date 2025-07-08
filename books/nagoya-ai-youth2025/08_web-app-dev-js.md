@@ -1,5 +1,5 @@
 ---
-title: "ChatGPTに三目並べを作ってもらおう！ -JavaScript-"
+title: "JavaScript"
 ---
 
 以下のプロンプトをChatGPTに入力し、JavaScriptのコードを出力してもらいましょう。
