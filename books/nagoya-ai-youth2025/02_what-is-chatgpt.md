@@ -1,5 +1,5 @@
 ---
-title: "ChatGPTとは？"
+title: "2.ChatGPTとは？"
 ---
 
 環境構築でChatGPTのアカウントを作成しましたが、そもそもChatGPTとはどのようなものなのでしょうか？

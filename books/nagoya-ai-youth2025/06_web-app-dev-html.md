@@ -1,5 +1,5 @@
 ---
-title: "HTML"
+title: "5-2.HTML"
 ---
 
 以下のプロンプトをChatGPTに入力し、HTMLのコードを出力してもらいましょう。

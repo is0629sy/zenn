@@ -1,5 +1,5 @@
 ---
-title: "JavaScript"
+title: "5-4.JavaScript"
 ---
 
 以下のプロンプトをChatGPTに入力し、JavaScriptのコードを出力してもらいましょう。
