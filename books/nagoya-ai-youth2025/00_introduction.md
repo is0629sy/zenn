@@ -1,5 +1,5 @@
 ---
-title: "0.はじめに"
+title: "0. はじめに"
 ---
 
 # NAGOYA AI YOUTH CAMP 2025にようこそ！  
