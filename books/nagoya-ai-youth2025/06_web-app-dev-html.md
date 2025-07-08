@@ -15,6 +15,8 @@ title: "ChatGPTに三目並べを作ってもらおう！ -HTML-"
 
 コードの出力が終了したら、コードの右上にある「コピーする」を押してコピーします。
 
+![](/images/nagoya2025/chatgpt-html-copy.png)
+
 コピーができたらVSCodeに移り、 `index.html` に貼り付けます。  
 Windowsでは `Ctrl+V` 、Macでは `⌘+V` で貼り付けることができます。
 
