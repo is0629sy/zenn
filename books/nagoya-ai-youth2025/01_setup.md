@@ -57,16 +57,15 @@ Japanese Language Pack~とは、言語設定が英語であるVSCodeを日本語
 5. 表示されている言語が日本語になっていればOK！
 
 <br />
-もしくは…
-
-1. 以下のURLをクリック
+> 【もう一つの方法】ファイルからの導入
+> 1. 以下のURLをクリック
 > https://marketplace.visualstudio.com/_apis/public/gallery/publishers/MS-CEINTL/vsextensions/vscode-language-pack-ja/1.101.2025061109/vspackage
-1. ファイルがダウンロードされるので、ダウンロードフォルダに `MS-CEINTL~` というファイルがダウンロードされていることを確認する
-2. VSCode画面左側の拡張機能アイコンをクリックしておく
-3. 画面左側に向けてダウンロードされたファイルをドラッグ&ドロップする
-![](/images/nagoya2025/extensions-2.png)
-4. 画面右下に表示される `Change Language and Restart` をクリックし、表示言語の変更と再起動をする
-5. 表示されている言語が日本語になっていればOK！
+> 2. ファイルがダウンロードされるので、ダウンロードフォルダに `MS-CEINTL~` というファイルがダウンロードされていることを確認する
+> 3. VSCode画面左側の拡張機能アイコンをクリックしておく
+> 4. 画面左側に向けてダウンロードされたファイルをドラッグ&ドロップする
+> ![](/images/nagoya2025/extensions-2.png)
+> 5. 画面右下に表示される `Change Language and Restart` をクリックし、表示言語の変更と再起動をする
+> 6. 表示されている言語が日本語になっていればOK！
 
 ### Live Server
 
@@ -84,14 +83,13 @@ Live Serverとは、作成しているWebサイトをリアルタイムでプレ
 ![](/images/nagoya2025/extension-liveserver-2.png)
 
 <br />
-もしくは…
-
-1. 以下のURLをクリック
+> 【もう一つの方法】ファイルからの導入
+> 1. 以下のURLをクリック
 > https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ritwickdey/vsextensions/LiveServer/5.7.9/vspackage
-2. ファイルがダウンロードされるので、ダウンロードフォルダに `ritwickdey~` というファイルがダウンロードされていることを確認する
-3. VSCode画面左側の拡張機能アイコンをクリックしておく
-4. 画面左側に向けてダウンロードされたファイルをドラッグ&ドロップする
-5. 画面右下に小さく `Go Live` のボタンが表示されていればOK！
+> 2. ファイルがダウンロードされるので、ダウンロードフォルダに `ritwickdey~` というファイルがダウンロードされていることを確認する
+> 3. VSCode画面左側の拡張機能アイコンをクリックしておく
+> 4. 画面左側に向けてダウンロードされたファイルをドラッグ&ドロップする
+> 5. 画面右下に小さく `Go Live` のボタンが表示されていればOK！
 
 # 2. ChatGPT
 
@@ -112,5 +110,6 @@ Live Serverとは、作成しているWebサイトをリアルタイムでプレ
 1. [ChatGPTのページ](https://openai.com/ja-JP/chatgpt/overview/)にアクセスし、ログインします
 2. ログインすると、ChatGPTとの対話ができる画面が表示されます
    （ChatGPTのアカウント作成した直後はこの画面に移動します）
+![](/images/nagoya2025/chatgpt-how-to-use.png)
 3. 画面下部の入力欄に質問やメッセージを入力し、「送信」ボタンをクリックすると、ChatGPTが応答します
-
+![](/images/nagoya2025/chatgpt-how-to-use-2.png)
