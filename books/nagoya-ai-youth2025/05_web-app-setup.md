@@ -63,7 +63,7 @@ HTML を使用して、見出し、段落、リンク、画像などの要素を
   </head>
 
   <body>
-    <div class="container">
+    <div>
       <h1 id="hello">はじめまして！</h1>
       <p>僕が好きなのはオールマイトです。</p>
       <span>デクも好きです。</span>
@@ -74,18 +74,15 @@ HTML を使用して、見出し、段落、リンク、画像などの要素を
 上記のコードをコピーし、`index.html`へ張り付け、どのような画面が表示されるか確認してみましょう！
 教材のコードの右上にある「コピーする」を押してコピーします。
 
-![](/images/nagoya2025/chatgpt-html-copy.png)
-
 コピーができたらVSCodeに移り、 `index.html` に貼り付けます。  
 Windowsでは `Ctrl+V` 、Macでは `⌘+V` で貼り付けることができます。
 
-![](/images/nagoya2025/vscode-html-sanmoku-1.png)
-
 出力されたコードが全て貼り付けられていればOK！
+コードの追加、削除、書き換えがあると、画面上部のファイル名の横に白丸が付きます。  
 
 ![](/images/nagoya2025/vscode-save-html.png)
 
-コードの追加、削除、書き換えがあると、画面上部のファイル名の横に白丸が付きます。  
+
 
 変更があったら、Windowsでは `Ctrl+S` 、Macでは `⌘+S` で**必ず保存**しておきましょう。
 
@@ -99,10 +96,6 @@ Cascading Style Sheets の略で、Web ページのスタイルを定義する�
 CSS を使用して、レイアウト、色、フォント、間隔などの視覚的なスタイルを指定します。
 
 ```css
-.container {
-  width: 100%;
-}
-
 h1 {
   color: red;
 }
