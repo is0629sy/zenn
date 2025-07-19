@@ -1,0 +1,9 @@
+title: "35週間で学ぶWeb制作"
+summary: "Web制作の基礎を35週間で学んでいきましょう！"
+topics: [HTML, CSS, JavaScript, 初心者向け]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 00_introduction
+  - 01_what-is-web
