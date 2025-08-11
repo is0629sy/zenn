@@ -1,0 +1,20 @@
+title: "AIで学ぶ！Webアプリ開発入門"
+summary: "AIを活用したWebアプリ開発の基礎を学びます。"
+topics: ["AI", "Webアプリ開発", "HTML", "CSS", "JavaScript"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 00_introduction
+  - 01_ai-introduction
+  - 02_web-introduction
+  - 03_setup
+  - 04_html-introduction
+  - 05_css-introduction
+  - 06_javascript-introduction
+  - 07_web-app-introduction
+  - 08_dev-html
+  - 09_dev-css
+  - 10_dev-javascript
+  - 11_custom
+  
