@@ -1,5 +1,5 @@
 ---
-title: "環境構築"
+title: "1. 環境構築"
 ---
 
 # 1. Visual Studio Code
