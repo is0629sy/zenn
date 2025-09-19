@@ -1,0 +1,18 @@
+title: "【石巻ハッカソン2025 IT Boot Camp部門】AIでプログラミング体験！"
+summary: "石巻ハッカソン2025 IT Boot Camp部門で使用する教材です。この教材を通してAIを活用してプログラミングを体験してみましょう！"
+topics: [AI, HTML, CSS, JavaScript, 初心者]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 00_introduction
+  - 01_setup
+  - 02_what-is-chatgpt
+  - 03_web-app-introduction
+  - 04_web-setup
+  - 05_basic-html
+  - 06_basic-css
+  - 07_basic-js
+  - 08_app-dev-html
+  - 09_app-dev-css
+  - 10_app-dev-js
