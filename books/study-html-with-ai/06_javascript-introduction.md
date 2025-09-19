@@ -1,3 +1,3 @@
 ---
-title: ""
+title: "JavaScriptの基礎"
 ---
