@@ -1,3 +1,3 @@
 ---
-title: "6-2. Webアプリ制作【CSS】"
+title: "7-2. Webアプリ制作【CSS】"
 ---

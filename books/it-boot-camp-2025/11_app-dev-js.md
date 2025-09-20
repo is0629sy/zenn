@@ -1,3 +1,3 @@
 ---
-title: "6-3. Webアプリ制作【JavaScript】"
+title: "7-3. Webアプリ制作【JavaScript】"
 ---
