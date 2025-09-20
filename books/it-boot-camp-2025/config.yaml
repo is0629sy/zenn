@@ -8,11 +8,12 @@ chapters:
   - 00_introduction
   - 01_setup
   - 02_what-is-chatgpt
-  - 03_web-app-introduction
+  - 03_web-introduction
   - 04_web-setup
   - 05_basic-html
   - 06_basic-css
   - 07_basic-js
-  - 08_app-dev-html
-  - 09_app-dev-css
-  - 10_app-dev-js
+  - 08_web-app-introduction
+  - 09_app-dev-html
+  - 10_app-dev-css
+  - 11_app-dev-js
