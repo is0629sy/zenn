@@ -20,9 +20,9 @@ HTML,CSS,JSをまとめておくフォルダを作成します。
 今回はわかりやすいようにデスクトップに作成しておきましょう。
 
 1. デスクトップ上で右クリックをし、Windowsでは `新規作成` > `フォルダー` 、Macでは `新規フォルダ` をクリック
-![](/images/nagoya2025/desktop-newfolder-windows.png)
+![](/images/itboot2025/desktop-newfolder.png)
 2. 名前は `test` とします
-![](/images/nagoya2025/desktop-newfolder-windows-name.png)
+![](/images/itboot2025/desktop-newfolder-name.png)
 
 ### 2. HTML,CSS,JSファイルの作成
 
