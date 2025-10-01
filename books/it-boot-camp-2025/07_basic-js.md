@@ -18,6 +18,8 @@ hello.addEventListener('click', () => {
 
 そして、表示されるページにどのような動きが加わるか確認してみましょう！
 
+![](/images/itboot2025/golive-js.png)
+
 どうでしょうか？プログラムの役割のイメージは沸きましたか？
 
 いよいよ次の章から、HTML、CSS、Javascriptを使用していよいよ「三目並べ」を作っていきます！
