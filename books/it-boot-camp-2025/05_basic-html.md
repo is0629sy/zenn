@@ -34,7 +34,7 @@ Windowsでは `Ctrl+V` 、Macでは `⌘+V` で貼り付けることができま
 出力されたコードが全て貼り付けられていればOK！
 コードの追加、削除、書き換えがあると、画面上部のファイル名の横に白丸が付きます。  
 
-![](/images/nagoya2025/vscode-save-html.png)
+![](/images/itboot2025/vscode-save-html.png)
 
 
 
@@ -42,4 +42,4 @@ Windowsでは `Ctrl+V` 、Macでは `⌘+V` で貼り付けることができま
 
 保存が完了したら、画面右下に小さく出ている `Go Live` をクリックしてブラウザで開いてみましょう。
 
-![](/images/nagoya2025/vscode-golive.png)
+![](/images/itboot2025/vscode-golive.png)
