@@ -7,7 +7,7 @@ title: "7-2. Webアプリ制作【CSS】"
 
 >style.cssを出力してください。
 
-![](/images/nagoya2025/chatgpt-css-sanmoku.png)
+![](/images/itboot2025/chatgpt-css-sanmoku.png)
 
 送信すると、再びコードの出力が始まります。
 
@@ -15,13 +15,13 @@ title: "7-2. Webアプリ制作【CSS】"
 
 VSCodeに移り、今度は `style.css` に貼り付けます。
 
-![](/images/nagoya2025/vscode-css-sanmoku-1.png)
+![](/images/itboot2025/vscode-css-sanmoku-1.png)
 
 コードが貼り付けられていることを確認したら、**保存**しましょう。
 
 先ほど「Go Live」で開いたWebページに戻ると、デザインが変わっていることが確認できると思います。 
 
-![](/images/nagoya2025/vscode-golive-test-sanmoku-2.png)
+![](/images/itboot2025/vscode-golive-test-sanmoku-2.png)
 
 AIで出力したコードは人によって変わることがあるので、周りと見比べてみると面白いかもしれません。
 

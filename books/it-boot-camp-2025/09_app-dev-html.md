@@ -22,7 +22,7 @@ title: "7-1. Webアプリ制作【HTML】"
 >index.html,style.css,script.jsを使って三目並べを作成してください。  
 まずはhtmlだけを出力してください。
 
-![](/images/nagoya2025/chatgpt-html-sanmoku.png)
+![](/images/itboot2025/chatgpt-html-sanmoku.png)
 
 送信すると、すぐにコードの出力が始まります。
 
@@ -30,16 +30,16 @@ title: "7-1. Webアプリ制作【HTML】"
 
 コードの出力が終了したら、コードの右上にある「コピーする」を押してコピーします。
 
-![](/images/nagoya2025/chatgpt-html-copy.png)
+![](/images/itboot2025/chatgpt-html-copy.png)
 
 コピーができたらVSCodeに移り、 `index.html` に貼り付けます。  
 Windowsでは `Ctrl+V` 、Macでは `⌘+V` で貼り付けることができます。
 
-![](/images/nagoya2025/vscode-html-sanmoku-1.png)
+![](/images/itboot2025/vscode-html-sanmoku-1.png)
 
 出力されたコードが全て貼り付けられていればOK！
 
-![](/images/nagoya2025/vscode-save-html.png)
+![](/images/itboot2025/vscode-save-html.png)
 
 コードの追加、削除、書き換えがあると、画面上部のファイル名の横に白丸が付きます。  
 
@@ -47,7 +47,7 @@ Windowsでは `Ctrl+V` 、Macでは `⌘+V` で貼り付けることができま
 
 保存が完了したら、画面右下に小さく出ている `Go Live` をクリックしてブラウザで開いてみましょう。
 
-![](/images/nagoya2025/vscode-golive-test-sanmoku-1.png)
+![](/images/itboot2025/vscode-golive-test-sanmoku-1.png)
 
 三目並べのタイトルと、リスタートのボタンは表示されています。
 

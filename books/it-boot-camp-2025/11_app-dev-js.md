@@ -7,7 +7,7 @@ title: "7-3. Webアプリ制作【JavaScript】"
 
 >script.jsを出力してください。
 
-![](/images/nagoya2025/chatgpt-js-sanmoku.png)
+![](/images/itboot2025/chatgpt-js-sanmoku.png)
 
 送信すると、またまたコードの出力が始まります。
 
@@ -15,13 +15,13 @@ title: "7-3. Webアプリ制作【JavaScript】"
 
 VSCodeに移り、最後は `script.js` に貼り付けます。
 
-![](/images/nagoya2025/vscode-js-sanmoku-1.png)
+![](/images/itboot2025/vscode-js-sanmoku-1.png)
 
 コードが貼り付けられていることを確認したら、**保存**しましょう。
 
 「Go Live」で開いたWebページ再び戻ってみます。
 
-![](/images/nagoya2025/vscode-golive-test-sanmoku-3.png)
+![](/images/itboot2025/vscode-golive-test-sanmoku-3.png)
 
 マス目をクリックすると⚪︎と×が交互に入力されることが確認できると思います。
 
