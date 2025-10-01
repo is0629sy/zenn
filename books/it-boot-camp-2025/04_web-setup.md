@@ -28,14 +28,14 @@ HTML,CSS,JSをまとめておくフォルダを作成します。
 
 `test` フォルダが完成したら、そのフォルダをVSCodeで開きます
 1. VSCodeを開き、左上の「ファイル」をクリックし、「フォルダーを開く…」をクリック
-![](/images/nagoya2025/vscode-openfolder-windows.png)
+![](/images/itboot2025/vscode-openfolder.png)
 2. エクスプローラーやFinderが開いたら、その中から先ほど作成した `test` を選択し、「開く」をクリックするとVSCodeでフォルダの中身を見ることができます
-![](/images/nagoya2025/vscode-openfolder-windows-select.png)
+![](/images/itboot2025/vscode-openfolder-select.png)
 3. 次に、左側に出ている `test` のファイル名の横にある `新しいファイル` をクリックし、 `index.html` と入力します
-![](/images/nagoya2025/vscode-newfile.png)
-![](/images/nagoya2025/vscode-setting-filename.png)
+![](/images/itboot2025/vscode-newfile.png)
+![](/images/itboot2025/vscode-setting-filename.png)
 4. 同じ方法で `style.css` と `script.js` も作成します
-![](/images/nagoya2025/vscode-setting-filename-2.png)
+![](/images/itboot2025/vscode-setting-filename-2.png)
 
 #### 実際に書いてみる！
 
