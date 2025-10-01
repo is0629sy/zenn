@@ -43,3 +43,9 @@ Windowsでは `Ctrl+V` 、Macでは `⌘+V` で貼り付けることができま
 保存が完了したら、画面右下に小さく出ている `Go Live` をクリックしてブラウザで開いてみましょう。
 
 ![](/images/itboot2025/vscode-golive.png)
+
+きっとこんな感じに見えているはずです！
+
+![](/images/itboot2025/golive-html.png)
+
+HTMLだけの表示が見れたら、次にCSSで装飾していきましょう！
