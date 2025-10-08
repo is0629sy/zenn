@@ -32,8 +32,6 @@ project-folder/
 * **alt**：画像が表示されない場合の代替テキスト
 * **width / height**：画像のサイズ（px単位）
 
-![](/images/itboot2025/tips-image-insert.png)
-
 ---
 
 ## Google Fontsを使って文字をおしゃれにしよう
