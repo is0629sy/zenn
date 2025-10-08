@@ -61,8 +61,6 @@ project-folder/
 
 これでページ全体の文字が指定したフォントになります！
 
-![](/images/itboot2025/tips-google-fonts.png)
-
 ---
 
 ## Google Mapsを埋め込もう
@@ -89,8 +87,6 @@ project-folder/
 ```
 
 地図の大きさを変えたいときは、`width`や`height`を調整しましょう。
-
-![](/images/itboot2025/tips-googlemap.png)
 
 ---
 
@@ -119,8 +115,6 @@ project-folder/
 
 ボタンを押すたびに、世界中の名言がランダムで表示されます。
 ChatGPTに「このAPIを使って背景も変えるようにしたい」などと相談すると、さらに発展できます！
-
-![](/images/itboot2025/tips-api.png)
 
 ---
 
