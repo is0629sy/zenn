@@ -2,6 +2,8 @@
 title: "5-1. HTMLの基礎"
 ---
 
+## HTMLとは？
+
 HTML（HyperText Markup Language）は、Web ページの構造を定義するために使用されるマークアップ言語です。
 HTML を使用して、見出し、段落、リンク、画像などの要素をページに追加します。
 

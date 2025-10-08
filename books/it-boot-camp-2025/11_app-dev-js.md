@@ -2,6 +2,8 @@
 title: "7-3. Webアプリ制作【JavaScript】"
 ---
 
+## JavaScriptで動きをつけよう！
+
 次は「動き（javascript）」をつけていきます！
 以下のプロンプトをChatGPTに入力し、JavaScriptのコードを出力してもらいましょう。
 
