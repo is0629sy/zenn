@@ -21,7 +21,7 @@ title: "7-1. Webアプリ制作【HTML】"
 
 以下のプロンプトをChatGPTに入力し、HTMLのコードを出力してもらいます。
 
->index.html,style.css,script.jsを使って三目並べを作成してください。  
+>index.html,style.css,script.jsを使ってシンプルな三目並べを作成してください。  
 まずはhtmlだけを出力してください。
 
 ![](/images/itboot2025/chatgpt-html-sanmoku.png)
